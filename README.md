@@ -9,3 +9,6 @@ Generative AI changes at a breakneck speed and nobody can afford to keep up with
 - [Llama 2](https://ai.meta.com/llama/get-started/)
 ## Prompting
 - [Prompting](https://www.promptingguide.ai/) - This course by Dair.ai includes everything you need for prompt engineering. It is also regularly updated.
+## Math
+- [Training](https://blog.eleuther.ai/transformer-math/)
+- [Inference](https://kipp.ly/transformer-inference-arithmetic/)

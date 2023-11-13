@@ -12,3 +12,5 @@ Generative AI changes at a breakneck speed and nobody can afford to keep up with
 ## Math
 - [Training](https://blog.eleuther.ai/transformer-math/)
 - [Inference](https://kipp.ly/transformer-inference-arithmetic/)
+ ## Training
+ - [Data Streaming](https://github.com/mosaicml/streaming)
